@@ -22,7 +22,7 @@ Gitlab.com免费，并且访问相对畅通，支持私有项目，没有必要�
 
 Gitlab.com可以免费创建私有项目（不允许未授权用户访问）。Gitlab基于Web的界面相对成熟，便于简单查看和编辑，支持wiki因此很适合分享知识。
 
-Gitlab每个月允许群组进行2000（分钟*用户）的同步操作，只要不频繁大幅度修改非文本文件，git会自动差分，一般足够。
+Gitlab每个月允许群组进行2000（分钟*用户）的同步操作，只要不频繁大幅度修改非文本文件，git会自动差分，一般足够。
 
 国内上传文件速度大约能到2M/s以上，因此速度不用担心。
 
@@ -63,7 +63,7 @@ VSCode、Eclipse、EditPlus甚至最简单的文本编辑器都可以用来编�
 
 ### 2.1 Github客户端下载
 
-[Github桌面客户端](https://desktop.github.com/)适用于Windows和Mac OS，界面简单易用、全集成面配置，可以访问Github之外的git服务（建议使用基于HTTPS的服务）。首次安装时可能要登陆Github账号。
+[Github桌面客户端](https://desktop.github.com/)适用于Windows和MacOS，界面简单易用、全集成面配置，可以访问Github之外的git服务（建议使用基于HTTPS的服务）。首次安装时可能要登陆Github账号。
 
 ### 2.2 注册Github账号
 
@@ -126,13 +126,13 @@ VSCode、Eclipse、EditPlus甚至最简单的文本编辑器都可以用来编�
     
     工程（的文档）和wiki都可以**使用HTTPS方式**进行访问，使用`File`-> `Clone repository`菜单打开git服务访问页面，切换至`URL`页签，填写访问地址然后选择本地路径开始`Clone`即可。连接时要登陆账号。
 
-    文档的地址为：`https://gitlab.com/工程创建账号/工程名.git`
+    文档的地址为：`https://gitlab.com/工程创建账号/工程名.git`
     
-    wiki的地址为：`https://gitlab.com/工程创建账号/工程名.wiki.git`
+    wiki的地址为：`https://gitlab.com/工程创建账号/工程名.wiki.git`
 
 >**文档和wiki的阅读者一般只需要使用web版**
 
->**文档的主要编辑者建议连接到git而不是使用web版**
+>**文档的主要编辑者建议连接到git而不是使用web版**
 
 >**wiki一般只需要负责备份的人连接即可。**
 
