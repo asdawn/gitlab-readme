@@ -40,7 +40,7 @@ Gitlab注册需要使用Google的验证码服务，国内无法访问。但是�
 
     Gitlab支持全文+文件搜索，一般使用wiki和文档（以及代码）进行分享。
     
-    wiki一般适用于零散的专项信息，例如常见或偶发问题的解决、单个或一组名词解释等。
+    wiki一般适用于零散的专项信息，例如常见或偶发问题的解决、单个或一组名词解释等。
 
     文档一般适用于系统性的描述，例如API文档、产品文档、加工流程等。
 
@@ -63,7 +63,7 @@ VSCode、Eclipse、EditPlus甚至最简单的文本编辑器都可以用来编�
 
 ### 2.1 Github客户端下载
 
-[Github桌面客户端](https://desktop.github.com/)适用于Windows和Mac OS，界面简单易用、全集成面配置，可以访问Github之外的git服务（建议使用基于HTTPS的服务）。首次安装时可能要登陆Github账号。
+[Github桌面客户端](https://desktop.github.com/)适用于Windows和Mac OS，界面简单易用、全集成面配置，可以访问Github之外的git服务（建议使用基于HTTPS的服务）。首次安装时可能要登陆Github账号。
 
 ### 2.2 注册Github账号
 
@@ -124,7 +124,7 @@ VSCode、Eclipse、EditPlus甚至最简单的文本编辑器都可以用来编�
 
 + github客户端：
     
-    工程（的文档）和wiki都可以**使用HTTPS方式**进行访问，使用`File`-> `Clone repository`菜单打开git服务访问页面，切换至`URL`页签，填写访问地址然后选择本地路径开始`Clone`即可。连接时要登陆账号。
+    工程（的文档）和wiki都可以**使用HTTPS方式**进行访问，使用`File`-> `Clone repository`菜单打开git服务访问页面，切换至`URL`页签，填写访问地址然后选择本地路径开始`Clone`即可。连接时要登陆账号。
 
     文档的地址为：`https://gitlab.com/工程创建账号/工程名.git`
     
