@@ -63,7 +63,7 @@ VSCode、Eclipse、EditPlus甚至最简单的文本编辑器都可以用来编�
 
 ### 2.1 Github客户端下载
 
-[Github桌面客户端](https://desktop.github.com/)适用于Windows和MacOS，界面简单易用、全集成面配置，可以访问Github之外的git服务（建议使用基于HTTPS的服务）。首次安装时可能要登陆Github账号。
+[Github桌面客户端](https://desktop.github.com/)适用于Windows和Mac OS，界面简单易用、全集成面配置，可以访问Github之外的git服务（建议使用基于HTTPS的服务）。首次安装时可能要登陆Github账号。
 
 ### 2.2 注册Github账号
 
