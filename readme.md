@@ -41,7 +41,7 @@ VSCode、Eclipse、EditPlus甚至最简单的文本编辑器都可以用来编�
 
 ## 2.账号注册及客户端下载
 
-### 2.1 Gith客户端下载
+### 2.1 Git客户端下载
 
 待更新，先使用Web版吧
 
@@ -107,7 +107,7 @@ VSCode、Eclipse、EditPlus甚至最简单的文本编辑器都可以用来编�
 ### 3.3 使用WIKI
 
 工程的Wiki一般在
-`https://gitlab.com/*工程创建账号*/*工程名*/wikis/home`，登陆后可访问，已有Wiki列表在右侧。
+`https://gitlab.com/工程创建账号/工程名/wikis/home`，登陆后可访问，已有Wiki列表在右侧。
 
 有时候使用全文检索更快捷，`Gitlab`页面右上方有检索栏。
 
